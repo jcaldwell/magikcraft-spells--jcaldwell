@@ -1,0 +1,2 @@
+const magik = magikcraft.io;
+
